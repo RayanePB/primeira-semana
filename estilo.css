@@ -1,0 +1,17 @@
+body { 
+    background-color: rgba(112, 203, 91, 0.62);
+    font-family: arial;
+    font-size: 15pt;
+    text-align: justify
+}
+div {
+    width: 70%;
+    margin: auto;
+    background-color: white;
+}
+img {
+    width: 100%;
+}
+p, h1, h2 {
+    margin: 15px;
+}
